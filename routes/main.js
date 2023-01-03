@@ -35,8 +35,8 @@ var port = process.env.PORT || 8080 || 5000 || 3000
         uptime: muptime(process.uptime()),
         speed: `${neww - old}ms`,
         info:{       
-            owner: 'ZeeoneOfc',            
-            apikey: 'Chat Owner: https://wa.me/62887435047326'
+            owner: 'RyanzOfc',            
+            apikey: 'Chat Owner: https://wa.me/6285863725673'
         }
     }
     res.json(status)
